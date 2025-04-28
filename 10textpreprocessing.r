@@ -1,5 +1,3 @@
-install.packages(c("tidyverse","tidytext","tm","wordcloud","syuzhet","Snowballc","textdata"))
-
 library(tidyverse)    
 library(tidytext)     
 library(tm)           
